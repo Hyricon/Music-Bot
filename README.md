@@ -8,7 +8,7 @@ He Is Learing To Code, So He Made A Simple/Basic Music Discord Bot
 
 # Installation
 
-<h1> If Windows.. Follow This
+<h3> If Windows.. Follow This
 
 1. [Download This Repo](https://github.com/Hyricon-Development/Music-Bot/archive/refs/heads/main.zip)
 2. Unzip It! 
@@ -16,7 +16,7 @@ He Is Learing To Code, So He Made A Simple/Basic Music Discord Bot
 4. Edit `config.json` By Changing To Your Bot Token And Prefix 
 5. `node .` or `node index.js` To Start The Bot!
 
-<h1> If Linux.. Follow This
+<h3> If Linux.. Follow This
 
 1. `sudo apt update && sudo apt upgrade`
 2. `sudo apt install git`
